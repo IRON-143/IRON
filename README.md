@@ -6,4 +6,8 @@
 # 🚀 Installation
 
 cd
-rm -rf IRON
+rm -rf IRON-143
+git clone https://github.com/IRON-143/IRON
+cd IRON
+git pull
+python IRON.py
