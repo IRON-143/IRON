@@ -7,14 +7,14 @@
 
 cd
 
-rm -rf IRON-143
+rm -rf IRON
 
-git clone https://github.com/IRON-
-
-143/IRON
+git clone https://github.com/IRON-143/IRON
 
 cd IRON
 
-git pull
+ls
+
+git pull 
 
 python IRON.py
