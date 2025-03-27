@@ -5,15 +5,14 @@
 
 # 🚀 Installation
 
-cd
+cd $HOME
+
 
 rm -rf IRON
 
 git clone https://github.com/IRON-143/IRON
 
 cd IRON
-
-ls
 
 git pull 
 
