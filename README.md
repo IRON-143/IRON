@@ -16,4 +16,4 @@ cd IRON
 
 git pull 
 
-python IRON.py
+python IRON2.py
