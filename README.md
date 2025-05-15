@@ -16,4 +16,4 @@ cd IRON
 
 git pull 
 
-python IRON2.py
+python RANDOM.py
