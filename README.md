@@ -7,7 +7,6 @@
 
 cd $HOME
 
-
 rm -rf IRON
 
 git clone https://github.com/IRON-143/IRON
@@ -16,4 +15,4 @@ cd IRON
 
 git pull 
 
-python RANDOM.py
+python IRON2.py
