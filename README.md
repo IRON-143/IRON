@@ -13,6 +13,6 @@ git clone https://github.com/IRON-143/IRON
 
 cd IRON
 
-git pull 
+git pull
 
 python RANDOM.py
